@@ -5,6 +5,7 @@ import { useBalance } from "@repo/store/balance";
 export default function() {
   const balance = useBalance();
   return <div>
-    hi there 2343 {balance}
+    hi there 23  
+       43 {balance}
   </div>
 }
